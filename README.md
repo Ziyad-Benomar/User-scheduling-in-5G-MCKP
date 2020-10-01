@@ -1,5 +1,11 @@
 # User-scheduling-in-5G
-Working on an ILP problem to design optimal packet schedulers for 5G data rates
+Working on an Iinteger Linear Program (ILP) problem to design optimal packet schedulers for 5G 
+We will first proceed to a data preprocessing
+Then we will use different approaches to solve this ILP :
+- A greedy algorithm
+- A dynamic programming algorithm
+- A branch an bound algorithm
+- A stochastic algorithm
 
 THE PROBLEM ################################################################
 In 5G, an antenna transmits data packets to smartphones (or users) through a
