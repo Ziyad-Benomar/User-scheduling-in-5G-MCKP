@@ -17,6 +17,8 @@ https://marceaucoupechoux.wp.imt.fr/enseignement/english-inf421-pi/
 
 
 THE CODE ####################################################################
+The code is written in Java. read the following to run it.
+
 Modeling classes-------------------------------------------------------------
 We recommand you to have a quick look on the classes Instance and Solution.
 #) An object of the class instance is created using the path to a test file,
