@@ -12,7 +12,7 @@ uler is thus responsible to allocated channels to users and to divide the total 
 budget of the antenna among the available channels. The goal of this project is to
 design optimal packet schedulers in this context.
 
-The detailed subject and its tasks as well as test files are available on this page:
+The detailed subject and its tasks as well as test files are available on this page:\\
 https://marceaucoupechoux.wp.imt.fr/enseignement/english-inf421-pi/
 
 
