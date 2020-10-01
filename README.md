@@ -1,5 +1,5 @@
 # User-scheduling-in-5G
-(Jan - Feb 2020)
+(Jan - Feb 2020)  
 Working on an Iinteger Linear Program (ILP) problem to design optimal packet schedulers for 5G 
 We will first proceed to a data preprocessing
 Then we will use different approaches to solve this ILP :
