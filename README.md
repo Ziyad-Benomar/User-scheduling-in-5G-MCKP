@@ -8,7 +8,7 @@ Then we will use different approaches to solve this ILP :
 - A branch an bound algorithm
 - A stochastic algorithm
 
-THE PROBLEM ################################################################
+THE PROBLEM ################################################################  
 In 5G, an antenna transmits data packets to smartphones (or users) through a
 wireless medium, which is divided into a set of frequency channels.
 The higher the power dedicated to a user, the higher the data rate it can expe-
