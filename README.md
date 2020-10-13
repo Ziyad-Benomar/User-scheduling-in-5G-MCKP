@@ -1,6 +1,6 @@
-# User-scheduling-in-5G
+# User-scheduling-in-5G (MCKP)
 (Jan - Feb 2020)  
-Working on an Iinteger Linear Program (ILP) problem to design optimal packet schedulers for 5G   
+Working on an Multiple Choice Knapsack Problem (which is an integer linear problem) to design optimal packet schedulers for 5G   
 We will first proceed to a data preprocessing
 Then we will use different approaches to solve this ILP :
 - A greedy algorithm
